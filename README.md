@@ -8,6 +8,8 @@ Here's a brief visual and functional overview of the Laundry-App:
 
 **Screenshots**:
 - **Home Screen**:
+
+  
   ![Home UI](https://github.com/user-attachments/assets/771194f6-2a26-4855-9797-618aea145573)![Orderui2](https://github.com/user-attachments/assets/138518df-30e0-472a-ad1a-7b1868e369da)
 
 
