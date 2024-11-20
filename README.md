@@ -8,12 +8,12 @@ Here's a brief visual and functional overview of the Laundry-App:
 
 **Screenshots**:
 - **Home Screen**:
-  ![Home UI](path/to/home-ui.png)
+  ![Home UI](https://github.com/user-attachments/assets/771194f6-2a26-4855-9797-618aea145573)
 
 - **Product List**:
-  ![Product List](path/to/product-list.png)
+  ![Product List](https://github.com/user-attachments/assets/1f492367-b4e6-46b5-8fbb-54b08344878d)
 
-**Demo Video**: Watch a full walkthrough of the app [here](path/to/demo-video.mp4).
+
 
 [back to top](#laundry-app)
 
