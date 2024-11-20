@@ -84,7 +84,7 @@ The application follows a structured workflow to handle user interactions and se
 4. **Order Process**: Finalize orders with real-time database updates.
 5. **Order Tracking**: Display order status and details post-confirmation.
 
-![Flowchart](path/to/flowchart.png)
+![Flow Chart](https://github.com/user-attachments/assets/38c858e8-e5ca-4df6-bcfb-74b793bf17d2)
 
 [back to top](#laundry-app)
 
@@ -120,9 +120,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [back to top](#laundry-app)
 
 ## Contact
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Your Name - [@Chayon Das](https://twitter.com/your_twitter) - daschayon26@gmail.com
 
-Project Link: [https://github.com/your_username/laundry-app](https://github.com/your_username/laundry-app)
+Project Link: [https://github.com/ChayonDas/Laundry-App/edit//laundry-app](https://github.com/ChayonDas/Laundry-App/edit/laundry-app)
 
 [back to top](#laundry-app)
 
