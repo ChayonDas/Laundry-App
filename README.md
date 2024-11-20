@@ -67,7 +67,7 @@ Laundry-App is built with React Native to offer a seamless user experience for l
 ## System Architecture
 The architecture of the Laundry-App is based on a modular design to ensure maintainability and scalability. Below is an ER diagram representing the core database relationships:
 
-![ER Diagram](path/to/er-diagram.png)
+![ER diagram](https://github.com/user-attachments/assets/427b8ee3-670b-4500-9ce5-a83d0ba0e586)
 
 The system architecture follows a client-server model where the mobile client interacts with Firebase as the backend for data storage and authentication. Key components include:
 
